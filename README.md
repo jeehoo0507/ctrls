@@ -38,7 +38,7 @@ uv tool install git+https://github.com/jeehoo0507/ctrls.git
 [project]
 owner = "cjh"
 repo = "https://github.com/..."
-task = "dLLM 병렬 생성 실험"
+task = "gemma 4b 파인튜닝"
 
 [limits]
 ram = 32     # GB, 0이면 제한 없음
