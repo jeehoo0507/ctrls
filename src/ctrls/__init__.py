@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from ctrls!")
+# 이거 없어서 오류 였군군
