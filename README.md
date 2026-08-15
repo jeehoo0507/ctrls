@@ -61,3 +61,9 @@ cvz unarxiv, cvz wake
 cvz clean 을 통해 저장된 커밋 번호를 통해 파일들이 가지고 온다.
 
 
+---
+cvz gpuwatch
+
+작동 방식
+cvz gpuwatch --wait 20G 
+gpu 가 비면 작업을 시작하도록 하는 명령어 (약간의 불편한 점이 생길 수 있음)
