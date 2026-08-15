@@ -36,7 +36,7 @@ uv tool install git+https://github.com/jeehoo0507/ctrls.git
 
 ```toml
 [project]
-owner = "cjh"
+owner = "user"
 repo = "https://github.com/..."
 task = "gemma 4b 파인튜닝"
 
